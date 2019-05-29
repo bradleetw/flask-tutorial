@@ -44,6 +44,16 @@
                 "run"
             ],
             "jinja": true
+        },
+        {
+            "name": "Python(Flask): Initialize the Database File",
+            "type": "python",
+            "request": "launch",
+            "module": "flask",
+            "args": [
+                "init-db"
+            ],
+            "jinja": true
         }
     ]
 }
