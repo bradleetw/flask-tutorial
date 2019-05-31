@@ -9,4 +9,8 @@ The study of flask framework
 
 2019-0529: Templates, <http://flask.pocoo.org/docs/1.0/tutorial/templates/>
 
-2019-0530:
+2019-0531: Static Files, <http://flask.pocoo.org/docs/1.0/tutorial/static/>
+
+2019-0531: Blog Blueprint application, <http://flask.pocoo.org/docs/1.0/tutorial/blog/>
+
+2019-0601:
