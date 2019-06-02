@@ -13,4 +13,15 @@ The study of flask framework
 
 2019-0531: Blog Blueprint application, <http://flask.pocoo.org/docs/1.0/tutorial/blog/>
 
-2019-0601:
+2019-0602: Make the Project Installable, <http://flask.pocoo.org/docs/1.0/tutorial/install/>
+
+
+
+
+[Second tutorial resouce](<https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world>)
+
+[How to build a web application using Flask and deploy it to the cloud](<https://www.freecodecamp.org/news/how-to-build-a-web-application-using-flask-and-deploy-it-to-the-cloud-3551c985e492/>)
+
+[]<https://www.fullstackpython.com/flask.html>
+
+[Deployment - resource](<https://www.fullstackpython.com/deployment.html>)
