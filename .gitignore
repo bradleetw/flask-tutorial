@@ -27,3 +27,5 @@ MANIFEST
 # Flask stuff:
 instance/
 .webassets-cache
+
+startbootstrap-sb-admin-2-gh-pages

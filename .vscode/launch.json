@@ -52,6 +52,10 @@
             "type": "python",
             "request": "launch",
             "module": "flask",
+            "env": {
+                "FLASK_APP": "flaskr",
+                "FLASK_ENV": "development"
+            },
             "args": [
                 "init-db"
             ],
